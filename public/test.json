@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title":  "test",
+    "description": "test",
+    "image": "/images/IMG_3252.JPG",
+    "created_at": "17.06.2023 22:21",
+    "author": "Maksym Kovalets"
+  },
+  {
+    "id": 2,
+    "title": "test2",
+    "description": "test2",
+    "image": "/images/IMG_3252.JPG",
+    "created_at": "17.06.2023 23:21",
+    "author": "Maksym Kovalets"
+  }
+]
